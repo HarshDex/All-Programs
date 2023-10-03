@@ -1,0 +1,1 @@
+printf("\nprinting the data after deleting of the element :\n");

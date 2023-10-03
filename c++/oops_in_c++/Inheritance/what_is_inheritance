@@ -1,0 +1,7 @@
+    --Inheritance Overview --
+
+. inheritance is a very important feature of oops .
+. in inheritace we reuse the class and additional feature to it .
+. reusing task saves time and money .
+. reusing already tested and debugged class will save a lot of effort of developing     and debugging the same thing .
+. aggregation has A relation it is an alternative of inheritance

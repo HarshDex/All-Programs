@@ -1,0 +1,6 @@
+some more topics are to be practice which are as follows :
+linked list:-
+reverse
+reverse k node 
+add k nodes
+sub k nodes
